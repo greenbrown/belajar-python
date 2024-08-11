@@ -1,0 +1,15 @@
+#1. Cara menampilakan text menggunakan Python
+
+print("<TEXT YANG INGIN DITAMPILKAN>")
+
+print("Hello world!")
+
+print('Hello world!')
+
+#2. Cara menampilakan text menggunakan Python
+
+#print(<ANGKA YANG INGIN DITAMPILKAN>)
+
+print 
+
+
